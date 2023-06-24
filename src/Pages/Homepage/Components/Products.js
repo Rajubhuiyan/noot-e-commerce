@@ -4,7 +4,7 @@ import ProductsCard from './ProductsCard';
 import { useQuery } from 'react-query';
 import TempoLoader from '../../../SharedComponents/TempoLoader';
 import ErrorComponent from '../../../SharedComponents/ErrorComponent';
-
+import postImg from '../../../Assets/Images/Homepage/pd-img-1.png';
 
 
 const Products = () => {
