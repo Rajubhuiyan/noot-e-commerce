@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "title": "Featured Products",
+      "child": [
+        {
+          "id": 1,
+          "name": "Detachable Gravity Bowl Food Feeder",
+          "rating": 5,
+          "price": 200,
+          "image": "/static/media/pd-img-1.88178daf5edb8693eaf7.png"
+        },
+        {
+          "id": 2,
+          "name": "Detachable Gravity Bowl Food Feeder",
+          "rating": 5,
+          "price": 200,
+          "image": "/static/media/pd-img-1.88178daf5edb8693eaf7.png"
+        },
+        {
+          "id": 3,
+          "name": "Detachable Gravity Bowl Food Feeder",
+          "rating": 5,
+          "price": 200,
+          "image": "/static/media/pd-img-1.88178daf5edb8693eaf7.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "On Sale Products",
+      "child": [
+        {
+          "id": 1,
+          "name": "Detachable Gravity Bowl Food Feeder",
+          "rating": 5,
+          "price": 200,
+          "image": "/static/media/pd-img-1.88178daf5edb8693eaf7.png"
+        },
+        {
+          "id": 2,
+          "name": "Detachable Gravity Bowl Food Feeder",
+          "rating": 5,
+          "price": 200,
+          "image": "/static/media/pd-img-1.88178daf5edb8693eaf7.png"
+        },
+        {
+          "id": 3,
+          "name": "Detachable Gravity Bowl Food Feeder",
+          "rating": 5,
+          "price": 200,
+          "image": "/static/media/pd-img-1.88178daf5edb8693eaf7.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Top Rated Products",
+      "child": [
+        {
+          "id": 1,
+          "name": "Detachable Gravity Bowl Food Feeder",
+          "rating": 5,
+          "price": 200,
+          "image": "/static/media/pd-img-1.88178daf5edb8693eaf7.png"
+        },
+        {
+          "id": 2,
+          "name": "Detachable Gravity Bowl Food Feeder",
+          "rating": 5,
+          "price": 200,
+          "image": "/static/media/pd-img-1.88178daf5edb8693eaf7.png"
+        },
+        {
+          "id": 3,
+          "name": "Detachable Gravity Bowl Food Feeder",
+          "rating": 5,
+          "price": 200,
+          "image": "/static/media/pd-img-1.88178daf5edb8693eaf7.png"
+        }
+      ]
+    }
+  ]
+  
